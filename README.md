@@ -5,7 +5,7 @@ I needed a Jump Point Search implementation for a project. I created this one to
 Original Jump Point Search implementation repository [here](https://github.com/unrealgamer/Java-JPS)
 
 # Picture
-![Demo Picture](/images/DemoPicture.jpg)
+![Demo Picture](./images/DemoPicture.jpg)
 
 # Downloadable JAR
 Downloadable JAR [here](/release/JPS-With-UI.jar?raw=true)
